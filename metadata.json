@@ -1,0 +1,6 @@
+{
+  "name": "CSE Student Portfolio",
+  "description": "A clean, modular personal portfolio for a 2nd-year Computer Science and Engineering student with centralized configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
